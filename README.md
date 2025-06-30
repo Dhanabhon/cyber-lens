@@ -1,3 +1,14 @@
+---
+title: CyberLens
+emoji: 🛡️
+colorFrom: indigo
+colorTo: purple
+sdk: streamlit
+sdk_version: "1.35.0"
+app_file: app.py
+pinned: false
+---
+
 # 🛡️ CyberLens on Hugging Face Spaces
 
 CyberLens is a Streamlit-based web app that uses AI (Isolation Forest) to detect abnormal login behavior in SSH logs.
