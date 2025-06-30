@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pkl
+*.xlsx
+*.log
+output/
+models/
+logs/simulated_log.*
+*.DS_Store
